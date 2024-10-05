@@ -1,0 +1,38 @@
+*{
+
+    margin: 0;
+}
+
+header{
+background-color:darkolivegreen;
+padding: 20px;
+
+}
+ul>li:hover{
+    background-color: grey;
+    padding: 5px 10px;
+
+
+
+}
+
+
+
+ul>li{
+list-style: none;
+margin-right: 10px;
+}
+
+ul{
+display: flex;
+gap: 30px;
+
+
+}
+
+li>a{
+text-decoration: none;
+color:white;
+font-weight: 900px;
+
+}
